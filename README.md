@@ -5,7 +5,7 @@ Event-Management is a comprehensive system designed to streamline the process of
 
 ## Features
 - **Event Creation:** Easily create and customize events with detailed information.
-- **Participant Management:** Keep track of participants, their registration status, and attendance.
+- **Participant Management:** Keep track of participants, their registration status, and attendence.
 - **Scheduling:** Manage event schedules, sessions, and activities.
 - **Notifications:** Send out reminders and notifications to participants.
 - **Analytics:** Analyze event performance and gather feedback.
