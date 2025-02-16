@@ -11,7 +11,7 @@ Event-Management is a comprehensive system designed to streamline the process of
 - **Analytics:** Analyze event performance and gather feedback.
 
 ## Installation
-To install and run the Event-Management system locally, follow these steps:
+To install and run the Event-Management system locally, follow these steps:  
 
 1. **Clone the repository:**
    ```bash
